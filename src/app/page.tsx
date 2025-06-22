@@ -18,13 +18,13 @@ const HomePage = () => {
             <div className="lg:col-span-7 space-y-8 relative">
               <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold tracking-tight">
                 <div>
-                  <span className="text-foreground">Transform</span>
+                  <span className="text-foreground">Get Ready to Transform</span>
                 </div>
                 <div>
                   <span className="text-primary">Your Body</span>
                 </div>
                 <div className="pt-2">
-                  <span className="text-foreground">With Advanced</span>
+                  <span className="text-foreground">With Fitflex</span>
                 </div>
                 <div className="pt-2">
                   <span className="text-foreground">AI</span>
@@ -40,23 +40,7 @@ const HomePage = () => {
                 designed just for you
               </p>
 
-              {/* STATS */}
-              <div className="flex items-center gap-10 py-6 font-mono">
-                <div className="flex flex-col">
-                  <div className="text-2xl text-primary">500+</div>
-                  <div className="text-xs uppercase tracking-wider">ACTIVE USERS</div>
-                </div>
-                <div className="h-12 w-px bg-gradient-to-b from-transparent via-border to-transparent"></div>
-                <div className="flex flex-col">
-                  <div className="text-2xl text-primary">3min</div>
-                  <div className="text-xs uppercase tracking-wider">GENERATION</div>
-                </div>
-                <div className="h-12 w-px bg-gradient-to-b from-transparent via-border to-transparent"></div>
-                <div className="flex flex-col">
-                  <div className="text-2xl text-primary">100%</div>
-                  <div className="text-xs uppercase tracking-wider">PERSONALIZED</div>
-                </div>
-              </div>
+           
 
               {/* BUTTON */}
               <div className="flex flex-col sm:flex-row gap-4 pt-6">
@@ -87,7 +71,7 @@ const HomePage = () => {
               <div className="relative aspect-square max-w-lg mx-auto">
                 <div className="relative overflow-hidden rounded-lg bg-cyber-black">
                   <img
-                    src="/hero-ai3-Photoroom.png"
+                    src="/robo_2.png"
                     alt="AI Fitness Coach"
                     className="size-full object-cover object-center"
                   />
